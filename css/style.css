@@ -1,0 +1,37 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab:300);
+@import url(http://fonts.googleapis.com/css?family=Roboto+Condensed:400italic);
+
+a:hover
+{
+	text-decoration: none;
+}
+
+#article-name
+{
+	font-family: "Roboto Slab", slab-serif;
+	color: #010101;
+}
+
+#username, #comment-num
+{
+	color: #3859B0;
+}
+
+#username:hover, #comment-num:hover
+{
+	color: #0866C9;
+}
+
+#username
+{
+	display: inline;
+	font-family: "Roboto Condensed", sans-serif;
+	font-style: italic;
+}
+
+#comment-num
+{
+	font-size: 1.3em;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
