@@ -1,9 +1,20 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto+Slab:300);
 @import url(http://fonts.googleapis.com/css?family=Roboto+Condensed:400italic);
 
+.container
+{
+	margin-top: 60px;
+}
+
 a:hover
 {
 	text-decoration: none;
+}
+
+.form-control
+{
+	height: 60px !important;
+	font-size: 36px;
 }
 
 #article-name
