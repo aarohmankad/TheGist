@@ -1,3 +1,21 @@
+var app = angular.module("redditnews", []);
+
+app.directive("search", function () {
+	return{
+		restrict: 'E',
+		templateUrl: '../views/search.html',
+		controller: function ($scope) {
+			$scope.processSearch = function (e) {
+				if (e.keyCode != 13) {return};
+				
+				getNews($scope.subreddit);
+			};
+		},
+		controllerAs: 'search'
+	};
+});
+
+
 
 $("#submit").on('click', function () {
 	getNews();
@@ -11,7 +29,7 @@ function callback(data)
 	var links = data.results.links;
 	
 	// Debugging purposes
-	// console.log(links);
+	console.log(links);
 
 
 	for (var i = 0; i < links.length; i++) {
@@ -36,10 +54,10 @@ function callback(data)
 	};
 }
 
-function getNews () {	
+function getNews (subreddit_val) {	
 	$.ajax
 	({
-		"url":"http://www.kimonolabs.com/api/42h5m2oy?apikey=73388f3a9262f1c93b0116ffed06c96a&kimpath2=" + $("#subreddit").val() + "&callback=callback",
+		"url":"http://www.kimonolabs.com/api/42h5m2oy?apikey=73388f3a9262f1c93b0116ffed06c96a&kimpath2=" + encodeURIComponent(subreddit_val) + "&callback=callback",
 		"crossDomain":true,
 		"dataType":"jsonp"
 	});
