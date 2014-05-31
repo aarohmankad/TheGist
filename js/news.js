@@ -15,10 +15,20 @@ app.directive("search", function () {
 	};
 });
 
-
-
-$("#submit").on('click', function () {
-	getNews();
+app.directive("news", function () {
+	return{
+		restrict: 'E',
+		templateUrl: '../views/news.html',
+		controller: function ($scope, $http) {
+			$scope.articles = [];
+			this.processNews = function () {
+				$http.get('http://www.kimonolabs.com/api/42h5m2oy?apikey=73388f3a9262f1c93b0116ffed06c96a&kimpath2=' + encodeURIComponent(subreddit_val) + '&callback=callback').success(function(data){
+		            $scope.articles = data;
+			    });
+			}
+		},
+		controllerAs: 'news'
+	};
 });
 
 function callback(data) 
