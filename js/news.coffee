@@ -1,16 +1,25 @@
 app = angular.module 'redditnews', []
 
+app.controller 'rootControl', ->
+	return
+
+app.directive 'newsView', ->
+	replace: true
+	restrict: 'E'
+	templateUrl: '../views/news-view.html'
+	controller: () ->
+		return
+
+app.directive 'filterButtons', ->
+	replace: true
+	restrict: 'E'
+	templateUrl: '../views/filter-buttons.html'
+	controller: () ->
+		return
+
 app.directive 'newsList', ->
 	replace: true
 	restrict: 'E'
 	templateUrl: '../views/news-list.html'
-	controller: ($scope, $http) ->
-		searchTerm = ''
-		$scope.articles = $http.get 'http://www.reddit.com/r/' + searchTerm + '.json'
-		$scope.changeSearch = (e, term) ->
-			return if e.keyCode != 13
-
-			searchTerm = term
-			return
+	controller: () ->
 		return
-	controllerAs: 'newsList'
