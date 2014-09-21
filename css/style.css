@@ -1,0 +1,16 @@
+.article .article-url {
+  color: black;
+}
+.article .article-url:hover {
+  text-decoration: none;
+}
+.article .article-comment-url,
+.article .article-author-url {
+  color: gray;
+}
+.article small {
+  font-size: 16px;
+}
+.article hr {
+  margin-bottom: 0;
+}

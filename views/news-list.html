@@ -1,25 +1,31 @@
-<div ng-repeat="article in news">
+<div ng-repeat="article in news" class="article">
 	<div class="row">
-		<div class="col-lg-1">
-			<p>
-				Upvote
+		<div class="col-lg-10 col-lg-offset-1">
+			<div class="row">
+				<div class="col-lg-12">
+					<a ng-href="{{article.data.url}}" target="_blank" class="article-url">
+						<h2 class="article_title">{{article.data.title}}</h2>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-lg-10 col-lg-offset-1">
+			<p>	
+				<span class="article_date">Posted {{article.data.created}} seconds ago by </span>
+				<a ng-href="http://reddit.com/u/{{article.data.author}}" class="article-author-url">
+					<span class="article_author">{{article.data.author}}</span>
+				</a>
 			</p>
 		</div>
-		<div class="col-lg-11">
-			<div class="row">
-				<div class="col-lg-12">
-					<h2 class="article_title">{{article.data.title}}</h2>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-12">
-					<small class="article_comments">{{article.data.num_comments}} comments</small>
-				</div>
-			</div>
-		</div>
 	</div>
 	<div class="row">
-		<small class="article_date">Posted {{article.data.created}} hours ago</small>
-		<small class="article_author">by {{article.data.author}}</small>
+		<div class="col-lg-10 col-lg-offset-1">
+			<a ng-href="http://reddit.com{{article.data.permalink}}" class="article-comment-url">
+				<small class="article_comments">{{article.data.num_comments}} comments</small>
+			</a>
+		</div>
 	</div>
+	<hr>
 </div>
