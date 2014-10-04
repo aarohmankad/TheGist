@@ -1,31 +1,43 @@
-<div ng-repeat="article in news" class="article">
-	<div class="row">
-		<div class="col-lg-10 col-lg-offset-1">
-			<div class="row">
-				<div class="col-lg-12">
-					<a ng-href="{{article.data.url}}" target="_blank" class="article-url">
-						<h2 class="article_title">{{article.data.title}}</h2>
-					</a>
+<div>
+	<div ng-repeat="article in news" class="article">
+		<div class="row">
+			<div class="col-lg-10 col-lg-offset-1">
+				<div class="row">
+					<div class="col-lg-12">
+							<a ng-href="{{article.data.url}}" target="_blank" class="article-url" ng-mouseover="showSummary(article)">
+								<h2 class="article_title">
+									{{article.data.title}}
+									<small>({{article.data.domain}})</small>
+								</h2>
+							</a>
+					</div>
 				</div>
 			</div>
 		</div>
-	</div>
-	<div class="row">
-		<div class="col-lg-10 col-lg-offset-1">
-			<p>	
-				<span class="article_date">Posted {{article.data.created}} seconds ago by </span>
-				<a ng-href="http://reddit.com/u/{{article.data.author}}" class="article-author-url">
-					<span class="article_author">{{article.data.author}}</span>
+		<div class="row">
+			<div class="col-lg-10 col-lg-offset-1">
+				<p>	
+					<span class="article_date">Posted by </span>
+					<a ng-href="http://reddit.com/u/{{article.data.author}}" class="article-author-url">
+						<span class="article_author">{{article.data.author}}</span>
+					</a>
+				</p>
+			</div>
+		</div> 
+		<div class="row">
+			<div class="col-lg-10 col-lg-offset-1">
+				<a ng-href="http://reddit.com{{article.data.permalink}}" class="article-comment-url">
+					<small class="article_comments">{{article.data.num_comments}} comments</small>
 				</a>
-			</p>
+			</div>
 		</div>
-	</div>
-	<div class="row">
-		<div class="col-lg-10 col-lg-offset-1">
-			<a ng-href="http://reddit.com{{article.data.permalink}}" class="article-comment-url">
-				<small class="article_comments">{{article.data.num_comments}} comments</small>
-			</a>
+		<div class="row">
+			<div class="col-lg-10 col-lg-offset-1">
+				<p>
+					{{article.data.summary}}
+				</p>
+			</div>
 		</div>
+		<hr>
 	</div>
-	<hr>
 </div>

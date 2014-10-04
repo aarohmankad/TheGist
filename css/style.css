@@ -14,3 +14,11 @@
 .article hr {
   margin-bottom: 0;
 }
+.article .summary {
+  background: transparent;
+  border: none;
+  text-align: left;
+}
+.article .summary:active {
+  border: none;
+}
