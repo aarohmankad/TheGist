@@ -1,4 +1,6 @@
-redditnews
+TheGist
 ==========
 
-A news design, with content scraped from reddit's front page of /r/news
+A web app that summarizes news from the front page of /r/news.
+
+I use [clipped.me](http://clipped.me) as a summarization API. Major props to Tanay Tandon for Clipped.
