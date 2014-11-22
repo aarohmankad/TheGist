@@ -11,15 +11,8 @@
       restrict: 'E',
       templateUrl: '../views/news-list.html',
       controller: function($http, $scope) {
-        var getFavicons;
-        getFavicons = function() {
-          angular.forEach($scope.news, function(article, key) {
-            article.data.favicon = 'http://cors-anywhere.herokuapp.com/http://www.google.com/s2/favicons?domain=' + article.data.url;
-          });
-        };
         $http.get('http://www.reddit.com/r/news.json').success(function(resp_data) {
           $scope.news = resp_data.data.children;
-          getFavicons();
         });
         $scope.showSummary = function(article) {
           if (!article.data.summary) {

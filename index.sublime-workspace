@@ -1,0 +1,1134 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"stopwa",
+				"stopwatch-btn"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"stop",
+				"stopwatch"
+			],
+			[
+				"st",
+				"stopwatch_dom"
+			],
+			[
+				"favi",
+				"favicon"
+			],
+			[
+				"rndom",
+				"randomwidth"
+			],
+			[
+				"random",
+				"randomheight"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"screen",
+				"screen_context"
+			],
+			[
+				"clear",
+				"clearPixel"
+			],
+			[
+				"my",
+				"myCanvas"
+			],
+			[
+				"current",
+				"currentColor"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"myC",
+				"myContext"
+			],
+			[
+				"pixel",
+				"pixelDataRef"
+			],
+			[
+				"message",
+				"message_input"
+			],
+			[
+				"white",
+				"whiteboard_context"
+			],
+			[
+				"invit",
+				"invitables"
+			],
+			[
+				"pading",
+				"padding-right"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"new_",
+				"new_routes"
+			],
+			[
+				"ng-v",
+				"ng-view	AngularJS"
+			],
+			[
+				"$rotue",
+				"$routeProvider	AngularJS"
+			],
+			[
+				"route",
+				"$routeParams	AngularJS"
+			],
+			[
+				"$route",
+				"$routeProvider	AngularJS"
+			],
+			[
+				"ng-bind",
+				"ng-bind-html	AngularJS"
+			],
+			[
+				"$routePara",
+				"$routeParams	\\$routeParams"
+			],
+			[
+				"Inbox",
+				"InboxFactory"
+			],
+			[
+				"$loca",
+				"$location	AngularJS"
+			],
+			[
+				"search",
+				"searchText"
+			],
+			[
+				"filter",
+				"verbose_$filter	AngularJS"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"x",
+				"$exceptionHandler	AngularJS"
+			],
+			[
+				"errorsentence",
+				"errorsentenceLeft"
+			],
+			[
+				"error",
+				"errorstrings"
+			],
+			[
+				"essay",
+				"essay-editor"
+			],
+			[
+				"write",
+				"writeGood"
+			],
+			[
+				"ng-mou",
+				"ng-mouseover	AngularJS"
+			],
+			[
+				"firebae",
+				"firebaseRef"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"seconda",
+				"secondaryNodeText"
+			],
+			[
+				"ng-",
+				"ng-keydown	AngularJS"
+			],
+			[
+				"mainNode",
+				"mainNodeText"
+			],
+			[
+				"array",
+				"arrayVersion"
+			],
+			[
+				"json",
+				"json_data"
+			],
+			[
+				"logged",
+				"loggedIn"
+			],
+			[
+				"va",
+				"valid	\\$valid"
+			],
+			[
+				"email",
+				"emailAuth"
+			],
+			[
+				"firebase",
+				"firebaseRef"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"sticky",
+				"stickyData"
+			],
+			[
+				"value",
+				"viewValue	\\$viewValue"
+			],
+			[
+				"stick",
+				"stickyData"
+			],
+			[
+				"ff",
+				"ff-a	font-family: Arial, \"Helvetica Neue\", Helvetica, sans-serif;"
+			],
+			[
+				"table-",
+				"table-cell"
+			],
+			[
+				"image",
+				"image_upload"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"vil",
+				"violations_csv"
+			],
+			[
+				"vio",
+				"violation_csv"
+			],
+			[
+				"csv",
+				"csv2JSON"
+			],
+			[
+				"cla",
+				"cla	class .. end"
+			],
+			[
+				"mod",
+				"mod	module .. end"
+			],
+			[
+				"print",
+				"print_also"
+			],
+			[
+				"print_",
+				"print_also"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"FONT-",
+				"font-weight"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"p",
+				"pointer"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"backgorund",
+				"background-color"
+			],
+			[
+				"row",
+				"row-width"
+			],
+			[
+				"borde",
+				"border-left-color"
+			],
+			[
+				"conta",
+				"container-width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"i",
+				"id	Attr"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"marign",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"backgrou",
+				"background"
+			],
+			[
+				"marin",
+				"margin-left"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"border-bottom",
+				"border-bottom-left-radius"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"wo",
+				"wow	word-wrap"
+			],
+			[
+				"fire",
+				"firebase"
+			],
+			[
+				"ma",
+				"maw	max-width"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"questio",
+				"question_input"
+			],
+			[
+				"an",
+				"answer_input"
+			],
+			[
+				"pass",
+				"password_input"
+			],
+			[
+				"in",
+				"incorrectAnswers"
+			],
+			[
+				"co",
+				"correctAnswers"
+			],
+			[
+				"correc",
+				"correctAnswers"
+			],
+			[
+				"incor",
+				"incorrectAnswersPrev"
+			],
+			[
+				"corr",
+				"correctAnswers"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"mt",
+				"margin-top"
+			],
+			[
+				"fz",
+				"fz	font-size"
+			],
+			[
+				"answe",
+				"answered"
+			],
+			[
+				"firebas",
+				"firebaseRoom"
+			],
+			[
+				"re",
+				"removeClass"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"qu",
+				"question-input"
+			],
+			[
+				"s",
+				"src"
+			],
+			[
+				"NUM",
+				"NUM_ROWS"
+			],
+			[
+				"ran",
+				"randomCol"
+			],
+			[
+				"NU",
+				"NUM_ROWS"
+			],
+			[
+				"bor",
+				"board"
+			],
+			[
+				"BACK",
+				"background"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"Graphics",
+				"Graphics2D"
+			],
+			[
+				"seq",
+				"sequencer"
+			],
+			[
+				"set",
+				"setSequence"
+			],
+			[
+				"Midi",
+				"MidiSystem"
+			],
+			[
+				"label",
+				"labelButton"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"snipp",
+				"Snippet: html"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"coffe",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"ejs",
+				"Set Syntax: EJS (<% and %>)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"txt",
+				"Set Syntax: Textile"
+			],
+			[
+				"snippet",
+				"Snippet: Prototype"
+			],
+			[
+				"cof",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"index",
+				"AngularJS: Toggle - Disable Indexed Directive Completions"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"form",
+				"Snippet: Angular form"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"chuck",
+				"Set Syntax: ChucK"
+			],
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"cofee",
+				"Package Control: Create Package File"
+			],
+			[
+				"rb",
+				"Set Syntax: Ruby"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"",
+				"Code Folding: Unfold All"
+			],
+			[
+				"sni",
+				"Snippet: html"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet",
+				"Set Syntax: Emmet"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"snip",
+				"Snippet: html"
+			],
+			[
+				"bat",
+				"Set Syntax: Batch File"
+			],
+			[
+				"batch",
+				"Set Syntax: Batch File"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"----- BEGIN LICENSE -----",
+			"KimChi",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Aaroh/Documents/Github/Fitness Tracker/index.html",
+		"/C/Users/Aaroh/Documents/Github/Fitness Tracker/js/app.js",
+		"/C/Users/Aaroh/Documents/Github/Fitness Tracker/css/style.css",
+		"/C/Users/Aaroh/Documents/Github/TheGist/js/news.js",
+		"/C/Users/Aaroh/Documents/Github/TheGist/views/news-list.html",
+		"/C/Users/Aaroh/Documents/Github/TheGist/js/news.coffee",
+		"/C/Users/Aaroh/Documents/Github/TheGist/README.md",
+		"/C/Users/Aaroh/Documents/Github/TheGist/index.html",
+		"/C/Users/Aaroh/Documents/Github/reflexer/index.html",
+		"/C/Users/Aaroh/Documents/Github/reflexer/css/style.css",
+		"/C/Users/Aaroh/Documents/Github/reflexer/js/app.js",
+		"/C/Users/Aaroh/Documents/Github/portfolioSite/index.html",
+		"/C/Users/Aaroh/Documents/Github/collaboardtive/index.html",
+		"/C/Users/Aaroh/Documents/Github/collaboardtive/js/app.js",
+		"/C/Users/Aaroh/Documents/Github/collaboardtive/css/style.less",
+		"/C/Users/Aaroh/Documents/Github/collaboardtive/img/eraser.png",
+		"/C/Users/Aaroh/Documents/Github/collaboardtive/css/style.css",
+		"/C/Users/Aaroh/Desktop/code/index.html",
+		"/C/Users/Aaroh/Desktop/code/app.js",
+		"/C/Users/Aaroh/Documents/Github/collaboardtive/js/app.coffee",
+		"/C/Users/Aaroh/Documents/Github/invitable/routes/models/invitable.js",
+		"/C/Users/Aaroh/Documents/Github/invitable/routes/routes.js",
+		"/C/Users/Aaroh/Documents/Github/invitable/views/invitable-list.ejs",
+		"/C/Users/Aaroh/Documents/Github/invitable/config/auth.js",
+		"/C/Users/Aaroh/Documents/Github/invitable/public/css/app.css",
+		"/C/Users/Aaroh/Documents/Github/invitable/views/login.ejs",
+		"/C/Users/Aaroh/Documents/Github/invitable/views/signup.ejs",
+		"/C/Users/Aaroh/Documents/Github/invitable/views/index.ejs",
+		"/C/Users/Aaroh/Documents/Github/invitable/views/login.jade",
+		"/C/Users/Aaroh/Documents/Github/invitable/views/-P.fot",
+		"/C/Users/Aaroh/Documents/Github/invitable/views/login.fot",
+		"/C/Users/Aaroh/Documents/Github/invitable/config/development.sample.js",
+		"/C/Users/Aaroh/Documents/Github/invitable/config/development.js",
+		"/C/Users/Aaroh/Documents/Github/invitable/views/index.jade",
+		"/C/Users/Aaroh/Documents/Github/invitable/.gitignore",
+		"/C/Users/Aaroh/Documents/Github/speech_corrector/index.html",
+		"/C/Users/Aaroh/Documents/Github/speech_corrector/js/app.js",
+		"/C/Users/Aaroh/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Aaroh/Documents/Github/writer/writer.js",
+		"/C/Users/Aaroh/Documents/DailyProgrammer/october23_2014/app.js",
+		"/C/Users/Aaroh/Documents/DailyProgrammer/october23_2014/WordList.txt",
+		"/C/Users/Aaroh/Desktop/tset.py",
+		"/C/Users/Aaroh/Documents/Github/HackerQueue/public/test.js",
+		"/C/Users/Aaroh/Documents/Github/HackerQueue/views/main.jade",
+		"/C/Users/Aaroh/Downloads/JavaScript- The Good Parts.pdf",
+		"/C/Users/Aaroh/Desktop/AngularAuth/index.html",
+		"/C/Users/Aaroh/Desktop/AngularAuth/app.js",
+		"/C/Users/Aaroh/Documents/Github/gmailclone/index.html",
+		"/C/Users/Aaroh/Documents/Github/gmailclone/js/app.js",
+		"/C/Users/Aaroh/Desktop/AngularAuth/views/authenticate.html",
+		"/C/Users/Aaroh/Documents/Github/gmailclone/views/inbox.tmpl.html",
+		"/C/Users/Aaroh/Documents/Github/gmailclone/json/message/90345551.json",
+		"/C/Users/Aaroh/Documents/Github/gmailclone/json/message/74838344.json",
+		"/C/Users/Aaroh/Documents/Github/gmailclone/json/message/50223456.json",
+		"/C/Users/Aaroh/Documents/Github/gmailclone/json/message/10824581.json",
+		"/C/Users/Aaroh/Documents/Github/gmailclone/views/email.tmpl.html",
+		"/C/Users/Aaroh/Documents/Github/gmailclone/views/inbox.html",
+		"/C/Users/Aaroh/Documents/Github/gmailclone/views/email.html",
+		"/C/Users/Aaroh/Documents/Github/gmailclone/json/emails.json",
+		"/C/Users/Aaroh/Documents/Github/gmailclone/server.js",
+		"/C/Users/Aaroh/Documents/Github/scrumboard/server.js",
+		"/C/Users/Aaroh/Documents/Github/gmailclone/stylesheets/style.css",
+		"/C/Users/Aaroh/Documents/Github/HackerQueue/public/stylesheets/style.css",
+		"/C/Users/Aaroh/Documents/Github/HackerQueue/views/layout.jade",
+		"/C/Users/Aaroh/Documents/Github/HackerQueue/views/testing.html",
+		"/C/Users/Aaroh/Documents/Github/HackerQueue/routes/reddit.js",
+		"/C/Users/Aaroh/Documents/Github/HackerQueue/routes/hackernews.js",
+		"/C/Users/Aaroh/Documents/Github/HackerQueue/routes/lobsters.js",
+		"/C/Users/Aaroh/Documents/Github/HackerQueue/app.js",
+		"/C/Users/Aaroh/Desktop/area.js",
+		"/C/Users/Aaroh/Documents/Github/HackerQueue/views/main.html",
+		"/C/Users/Aaroh/Documents/Github/HackerQueue/views/layout.html",
+		"/C/Users/Aaroh/Documents/Github/HackerQueue/LICENSE",
+		"/C/Users/Aaroh/Documents/Github/writer/package.json",
+		"/C/Users/Aaroh/Documents/Github/writer/test.txt",
+		"/C/Users/Aaroh/Documents/Github/redditnews/views/news-list.html",
+		"/C/Users/Aaroh/Documents/Github/redditnews/js/news.coffee",
+		"/C/Users/Aaroh/Documents/Github/redditnews/js/news.js",
+		"/C/Users/Aaroh/Documents/Github/redditnews/index.html",
+		"/C/Users/Aaroh/Documents/Github/redditnews/css/style.less",
+		"/C/Users/Aaroh/Documents/Github/redditnews/views/news-view.html",
+		"/C/Users/Aaroh/Documents/Github/redditnews/README.md",
+		"/C/Users/Aaroh/Documents/Github/Mindmap/views/main-nodes.html",
+		"/C/Users/Aaroh/Documents/Github/Mindmap/index.html",
+		"/C/Users/Aaroh/Documents/Github/Mindmap/js/app.js",
+		"/C/Users/Aaroh/Documents/Github/Mindmap/css/style.css",
+		"/C/Users/Aaroh/Documents/Github/sickday.mvp/frontend/js/sickday_w_maps.js",
+		"/C/Users/Aaroh/Documents/Github/sickday.mvp/frontend/maps.html",
+		"/C/Users/Aaroh/Documents/Github/sickday.mvp/frontend/css/sickday_w_maps.css",
+		"/C/Users/Aaroh/Documents/Github/sickday.mvp/frontend/index.html",
+		"/C/Users/Aaroh/Documents/eloquent-js/lava-game/game.js",
+		"/C/Users/Aaroh/Documents/Github/redditnews/css/style.css",
+		"/C/Users/Aaroh/Documents/Github/redditnews/views/filter-buttons.html",
+		"/C/Users/Aaroh/Documents/Github/Hackalist.github.io/index.html",
+		"/C/Users/Aaroh/Documents/Github/Hackalist.github.io/js/app.js",
+		"/C/Users/Aaroh/Documents/Github/Hackalist.github.io/test.js",
+		"/C/Users/Aaroh/Documents/Github/Hackalist.github.io/api/1.0/api.json",
+		"/C/Users/Aaroh/Documents/Github/scrumboard/js/app.js",
+		"/C/Users/Aaroh/Documents/Github/Hackalist.github.io/views/event-list.html",
+		"/C/Users/Aaroh/Documents/Github/Hackalist.github.io/css/style.css",
+		"/C/Users/Aaroh/Documents/Github/Hackalist.github.io/js/app.coffee",
+		"/C/Users/Aaroh/Documents/Github/Hackalist.github.io/style.css",
+		"/C/Users/Aaroh/Documents/Github/Hackalist.github.io/server.js",
+		"/C/Users/Aaroh/Documents/Github/portfolioSite/photography/css/style.less",
+		"/C/Users/Aaroh/Documents/Github/portfolioSite/photography/index.html",
+		"/C/Users/Aaroh/Documents/Github/portfolioSite/photography/testpost.html",
+		"/C/Users/Aaroh/Documents/Github/git_tutorial/work/hello/hello.rb",
+		"/C/Users/Aaroh/Documents/Github/scrumboard/views/login-prompt.html",
+		"/C/Users/Aaroh/Documents/Github/scrumboard/js/app.coffee",
+		"/C/Users/Aaroh/Documents/Github/scrumboard/index.html",
+		"/C/Users/Aaroh/Documents/Github/scrumboard/views/welcome.html",
+		"/C/Users/Aaroh/Documents/Github/powerapi-python/schedule.py",
+		"/C/Users/Aaroh/Documents/Github/scrumboard/views/scrum-board.html",
+		"/C/Users/Aaroh/Documents/Github/scrumboard/css/style.less",
+		"/C/Users/Aaroh/Documents/Github/scrumboard/terminal.glue",
+		"/C/Users/Aaroh/Documents/Github/scrumboard/views/in-progress.html",
+		"/C/Users/Aaroh/Documents/Github/scrumboard/views/ice-box.html",
+		"/C/Users/Aaroh/Documents/Github/scrumboard/views/complete-stickies.html",
+		"/C/Users/Aaroh/Documents/Github/scrumboard/views/testing-stickies.html",
+		"/C/Users/Aaroh/Documents/Github/scrumboard/views/emergency-stickies.html",
+		"/C/Users/Aaroh/Documents/Github/picstorial/server.js",
+		"/C/Users/Aaroh/Documents/Github/HackList/CNAME",
+		"/C/Users/Aaroh/Documents/Github/love_dont_judge/css/style.less",
+		"/C/Users/Aaroh/Documents/Github/love_dont_judge/index.html",
+		"/C/Users/Aaroh/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Aaroh/Desktop/yelp_dataset_challenge_academic_dataset",
+		"/C/Users/Aaroh/Documents/Github/love_dont_judge/terminal.glue",
+		"/C/Users/Aaroh/Documents/Github/herohacks/index.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 136.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"stopwatch_dom",
+			"timer",
+			"var",
+			"randomwidth",
+			"document.body",
+			"20",
+			"canvas",
+			"randomwidth",
+			"100",
+			"js",
+			"pixSize",
+			"alt",
+			"alt=\"\"",
+			"60",
+			"alt=\"\"",
+			"col-lg-2",
+			"pixelDataRef",
+			"messages",
+			"x",
+			"g-1",
+			"<h1></h1>",
+			"hero",
+			"10px",
+			"small",
+			" table-row-2",
+			"..",
+			"<script ",
+			"post in new_removedPosts",
+			"post in $scope.new_posts",
+			"route in $scope.new_routes",
+			"post in $scope.posts",
+			"post in $scope.new_posts",
+			"site in sites",
+			"datum in data",
+			"route in $scope.routes",
+			"$auth",
+			"e this to the code monkeys: ",
+			"../",
+			"['', ",
+			"h2",
+			"searchTitle",
+			"searchText",
+			"removedPosts",
+			"$scope.posts",
+			"pe.posts",
+			"posts",
+			"'·'",
+			"indexOf(post)",
+			"$scope.posts[post]",
+			"removedPosts.pu",
+			"removedPosts.push(post);",
+			"$scope.posts",
+			"sts[post].points = $scope.posts[post].points/$scope.posts[0];\n      $scope.posts = qu",
+			"posts",
+			"greyscale",
+			"ink}}\" target=\"_blank\"",
+			"target=\"_blank\"",
+			"$scope.posts",
+			"data;",
+			"visitedComments = true;",
+			"visted_comment_link",
+			"vis",
+			"greyscale(this)",
+			"<a href=\"{{post.comments_link}}\"",
+			"function",
+			":\"",
+			"app",
+			"AppTest",
+			":disc outside;",
+			" <sup><a href={{post.comments_link}} style=\"text-decoration:none\" target=\"_blank\">{{post.site}}</a></sup>",
+			"jpg",
+			"<li id=\"post\">",
+			"$scope.summary",
+			"mapOptions",
+			"zmap",
+			"zmapOptions",
+			"mapOptions",
+			"list",
+			"small",
+			"article.data",
+			"i ",
+			"i",
+			"h2",
+			"search-box",
+			"list",
+			"theObjectYouGet",
+			"searchText",
+			"name",
+			"width=\"24px\"",
+			" p",
+			" p,",
+			"img",
+			"prize",
+			"travel",
+			"small",
+			"h3",
+			"small",
+			"$http",
+			"span",
+			"this",
+			"scrumCtrl",
+			"login_prompt",
+			"login",
+			"return",
+			"color:",
+			"color: ",
+			"this.stickies = []",
+			"== emergency",
+			"emergency",
+			"controller: ($scope, stickyData) ->\n		return",
+			"tempalteUrl: ''",
+			"require:",
+			"<a>",
+			"class=\"link",
+			"link",
+			"display: table;\n	width: 100%;",
+			"freq",
+			"news",
+			"-stack\"",
+			"class=\"",
+			"-stack\"",
+			"<a id",
+			"stack",
+			"<h1>Content</h1>",
+			"</div>",
+			"stack\"",
+			"id=\"link",
+			"JAT"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"news",
+				"views\\news-list.html"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"sty",
+				"css\\style.css"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"app",
+				"js\\app.js"
+			],
+			[
+				"style",
+				"css\\style.less"
+			],
+			[
+				"st",
+				"css\\style.css"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"ap",
+				"js\\app.js"
+			],
+			[
+				"main.",
+				"views\\main.jade"
+			],
+			[
+				"layout",
+				"views\\layout.html"
+			],
+			[
+				"i",
+				"index.html"
+			],
+			[
+				"def",
+				"defstyles.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

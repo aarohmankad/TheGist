@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:700);
+
 .article
 {
 	.article-url
@@ -6,6 +8,11 @@
 		&:hover
 		{
 			text-decoration: none;
+		}
+		.article-title
+		{
+			font-size: 21px;
+			font-family: "Source Sans Pro", sans-serif;
 		}
 	}
 	.article-comment-url, .article-author-url
@@ -21,15 +28,8 @@
 		margin-bottom: 0;
 	}
 
-	.summary
+	.article-summary
 	{
-		background: transparent;
-		border: none;
-		text-align: left;
-
-		&:active
-		{
-			border: none;
-		}
+		
 	}
 }
